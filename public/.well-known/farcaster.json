@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+      "header": "TODO_REPLACE_BASE64_HEADER",
+      "payload": "TODO_REPLACE_BASE64_PAYLOAD",
+      "signature": "TODO_REPLACE_BASE64_SIGNATURE"
+  },
+  "miniapp": {
+      "version": "1",
+      "name": "Sway",
+      "homeUrl": "https://sway.example.com/",
+      "iconUrl": "https://sway.example.com/assets/icon.png",
+      "splashImageUrl": "https://sway.example.com/assets/splash.png",
+      "splashBackgroundColor": "#020617",
+
+      "subtitle": "Keep the dot in balance.",
+      "description": "Sway is a tiny balance game where you tilt your phone to keep a glowing dot inside a shifting safe zone, perfect for 10-second breaks.",
+      "primaryCategory": "games",
+      "tags": ["fun","simple","utility"],
+
+      "heroImageUrl": "https://sway.example.com/assets/hero.png",
+      "imageUrl": "https://sway.example.com/assets/embed-3x2.png",
+      "ogTitle": "Sway",
+      "ogDescription": "Sway is a tiny balance game where you tilt your phone to keep a glowing dot inside a shifting safe zone, perfect for 10-second breaks.",
+      "ogImageUrl": "https://sway.example.com/assets/hero.png",
+
+      "screenshotUrls": [
+         "https://sway.example.com/assets/hero.png"
+      ],
+      "noindex": true
+  }
+}
