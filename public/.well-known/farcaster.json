@@ -14,7 +14,7 @@
 
       "subtitle": "Keep the dot in balance.",
       "description": "Sway is a tiny balance game where you tilt your phone to keep a glowing dot inside a shifting safe zone, perfect for 10-second breaks.",
-      "primaryCategory": "games",
+      "primaryCategory": "utility",
       "tags": ["fun","simple","utility"],
 
       "heroImageUrl": "https://sway-ruddy.vercel.app/assets/hero.png",
